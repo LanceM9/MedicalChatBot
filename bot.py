@@ -36,8 +36,7 @@ trainer = ListTrainer(chatbot)
 trainer.train(drugNames + drugURLS)
 
 corpusTrainer = ChatterBotCorpusTrainer(chatbot)
-corpusTrainer.train("chatterbot.corpus.english.greetings",
-                    "chatterbot.corpus.english.conversations")
+corpusTrainer.train("chatterbot.corpus.english")
 
 # Train chatbot from Real Python
 trainer.train([
