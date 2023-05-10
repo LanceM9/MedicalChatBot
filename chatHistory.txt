@@ -1,0 +1,7 @@
+You: Tell me about the side effects of Tramadol
+Health Bot:  Here you can learn more about the side effects of Tramadol : https://www.nhs.uk/medicines/tramadol/side-effects-of-Tramadol
+You: Hello
+Health Bot: Hi
+You: Yo
+Health Bot: Ferrous fumarate
+You: Hi
